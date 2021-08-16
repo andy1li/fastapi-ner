@@ -1,0 +1,6 @@
+pytest
+spacy
+fastapi
+aiofiles
+uvicorn
+selenium
